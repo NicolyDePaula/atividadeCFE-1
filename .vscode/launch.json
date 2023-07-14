@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///C:/Users/nicol/Downloads/atividadeCFE_-_inicial_para_atividade/atividadeCFE%20-%20inicial%20para%20atividade/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
